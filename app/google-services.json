@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "746834036930",
+    "project_id": "biology-mastik",
+    "storage_bucket": "biology-mastik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:746834036930:android:c115c739616102db8fd35b",
+        "android_client_info": {
+          "package_name": "com.mastik.biology"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "746834036930-t395e71csra7svf41ug8l4cm0siiatgq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mastik.biology",
+            "certificate_hash": "ffff27bb56bf8f3e62c9be62f543dbab6e2e5a86"
+          }
+        },
+        {
+          "client_id": "746834036930-9co8rdn17mscli8hb9rnfss7frd3c73q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxrEVLqEq3ptD19kPG-f8IZI1WORADhOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "746834036930-9co8rdn17mscli8hb9rnfss7frd3c73q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
